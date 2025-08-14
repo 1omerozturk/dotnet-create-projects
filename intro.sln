@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-intro", "console-intro\console-intro.csproj", "{9149166A-8309-494D-A916-53EEF346EEA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-dotnet-frmw", "console-dotnet-frmw\console-dotnet-frmw.csproj", "{716E87EE-C493-4803-BC29-0C6007D7EEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wep-app-mvc", "wep-app-mvc\wep-app-mvc.csproj", "{DDBFCCB1-0841-4B3A-AC00-1F2FE739FF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9149166A-8309-494D-A916-53EEF346EEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9149166A-8309-494D-A916-53EEF346EEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9149166A-8309-494D-A916-53EEF346EEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9149166A-8309-494D-A916-53EEF346EEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716E87EE-C493-4803-BC29-0C6007D7EEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716E87EE-C493-4803-BC29-0C6007D7EEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716E87EE-C493-4803-BC29-0C6007D7EEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716E87EE-C493-4803-BC29-0C6007D7EEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBFCCB1-0841-4B3A-AC00-1F2FE739FF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBFCCB1-0841-4B3A-AC00-1F2FE739FF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBFCCB1-0841-4B3A-AC00-1F2FE739FF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBFCCB1-0841-4B3A-AC00-1F2FE739FF90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
